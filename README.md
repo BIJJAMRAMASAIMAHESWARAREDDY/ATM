@@ -27,14 +27,15 @@ accountNo: '39363', name:'stokes', email:'strokescsk@gmail.com',balance:14450.00
 
 # Screenshots :
 
-![Screenshot 2024-06-15 183301](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/0d8c9625-4977-4185-b017-b36dc67f6fcd)
-![Screenshot 2024-06-15 183331](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/651329bd-1a26-46ff-a601-eac0c26a487c)
-![Screenshot 2024-06-15 183346](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/fc82364e-3ce8-4629-99a3-971a16e55b93)
-![Screenshot 2024-06-15 183424](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/150a4241-dc82-43ab-bc24-414f118c828e)
-![Screenshot 2024-06-15 183452](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/1c9a1935-a507-4d5f-9106-93602d09bc57)
-![Screenshot 2024-06-15 183513](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/dca6573e-a752-4427-95f7-0e77abb9ee42)
-![Screenshot 2024-06-15 183524](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/88f873af-2c75-472a-86bb-60b410e435a0)
-![Screenshot 2024-06-15 183407](https://github.com/BIJJAMRAMASAIMAHESWARAREDDY/ATM-Simulator/assets/111236831/61eac251-cf7c-4ae0-9a21-07a7d9553583)
+![Screenshot 2024-06-15 183301]
+![Screenshot 2024-06-15 183331]
+![Screenshot 2024-06-15 183346]
+![Screenshot 2024-06-15 183424]
+![Screenshot 2024-06-15 183452]
+![Screenshot 2024-06-15 183513]
+![Screenshot 2024-06-15 183524]
+![Screenshot 2024-06-15 183407]
+
 
 
 
