@@ -1,0 +1,224 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    
+}
+body{
+    box-sizing: border-box;
+}
+
+#operationsContainer
+{
+    display:none;
+}
+.heading
+{
+ background-color:rgb(242, 168, 78); 
+ 
+}
+#headingsLayer
+{
+    text-align: center;
+    padding:3px;
+    flex-wrap: wrap;
+    border:3px solid purple;
+}
+#outerDisplayLayer
+{
+    border:2px solid black;
+}
+#loginContainer
+{
+    margin:5px;
+    background-color: black;
+    text-align: center;
+}
+.displayLabel
+{
+    text-transform: uppercase;
+    font-size: large;
+    color:yellow; 
+    margin-top:20px;
+}
+.input1
+{
+    margin:20px;
+    background-color:aliceblue;
+    border:none;
+    color:green;
+    font-size: 30px;
+    text-align: center;
+    letter-spacing: 10px;
+    border-radius: 20px;
+    height: 50px;
+}
+#loginButton
+{
+    margin:10px;
+    width:100px;
+    border-radius:20px;
+    font-size: large;
+    color:orange;
+}
+#resultContainer
+{
+    margin:20px;
+    background-color: rgb(111, 184, 249);
+    font-size: 30px;
+    text-align: center;
+    color:green;
+    height:auto;
+    word-spacing: 10px;
+    border:2px solid black;
+}
+#buttonsArea
+{
+    display:flex;
+    background-color: rgba(85, 247, 11, 0.381);
+    height:auto;
+    gap:20px;
+    justify-content: center;
+    flex-wrap: wrap;
+    word-wrap: normal;
+    border:2px solid black;
+    padding:20px;
+}
+#withdrawButton,#depositButton,#accountDetailsButton,#balanceButton
+{
+    border-radius: 20px;
+    font-size: 30px;
+    box-shadow:rgb(77, 12, 229) ;
+    color:rgb(20, 20, 19);
+}
+
+#operationsContainer
+{
+    display: grid;
+    box-sizing: border-box;
+    margin:40px;
+    gap:10px;
+}
+#logoutButton
+{
+    text-align: center;
+    font-size: large;
+    border-radius: 20px;
+    width: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-content: center;
+   
+}
+#passwordContainer
+{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    color:yellow;
+    display: none;
+}
+#passwordInput
+{
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    color:blueviolet;
+    border-radius: 20px;
+}
+#confirmButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+#cancelButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+#withdrawContainer
+{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    color:yellow;
+    display: none;
+}
+#withdrawAmountInput
+{
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    color:blueviolet;
+    border-radius: 20px;
+}
+#withdrawConfirmButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+#withdrawCancelButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+
+#depositContainer
+{
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    font-size: 30px;
+    color:yellow;
+    display: none;
+}
+#depositAmountInput
+{
+    padding:5px;
+    font-size: 20px;
+    text-align: center;
+    color:blueviolet;
+    border-radius: 20px;
+}
+#depositConfirmButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+#depositCancelButton
+{
+    margin: 10px;
+    padding:10px;
+    background-color:lightblue;
+    color:green;
+    border-radius: 20px;
+}
+.footerLayer
+{
+    font-size: 30px;
+    color:purple;
+    background-color:gold;
+    height:auto;
+    padding:20px;
+    margin:20px;
+    text-align: center;
+    word-wrap: break-word;
+    border: 2px solid black;
+}

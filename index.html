@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="home.css">
+    <script src="home.js" defer></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    
+  <title>Bank Operations</title>
+  <style>
+  </style>
+</head>
+<body>
+<div class="body container-fluid" id="body">
+  <div class="heading container-fluid">
+    <h1 class="headingsLayer" id="headingsLayer">ATM OPERATIONS</h1>
+  </div>
+  <div class="outerDisplayLayer container-fluid " id="outerDisplayLayer">
+    <div class="loginContainer container-fluid" id="loginContainer">
+      <label for="accountNumberInput" class="displayLabel">Please Enter your Account Number To Perform Other Operatoions</label>
+      <br>
+      <input type="text" class="input1" id="accountNumberInput" maxlength="5" inputmode="numeric"/>
+      <br>
+      <button class="btn btn-success" id="loginButton" type="button">Login</button>
+    </div>
+  </div>
+  <div id="resultContainer" class="container-fluid">
+
+  </div>
+  <div class="buttonsArea container-fluid " id="buttonsArea">
+      <div  id="operationsContainer">
+          <button id="withdrawButton" class="btn btn-primary Obuttons"  type="button" disabled>Withdraw Money</button>
+          <button id="depositButton" class="btn btn-warning Obuttons" type="button" disabled>Deposit</button>
+          <button id="accountDetailsButton" class="btn btn-success Obuttons" type="button" disabled>Account Details</button>
+          <button id="balanceButton" class="btn btn-warning Obuttons" type="button" disabled>Balance</button>
+          <button id="logoutButton" class="btn btn-danger" type="button" disabled>Logout</button>
+      </div>
+      <div id="passwordContainer" class="passwordContainer container-fluid" >
+        <label for="passwordInput"> Enter the Password : </label><br>
+        <input type="password" id="passwordInput" maxlength="4"/><br>
+        <button id="confirmButton">Confirm</button>
+        <button id="cancelButton">Cancel</button>
+      </div>
+      <div id="withdrawContainer" >
+        <label for="withdrawAmountInput">Enter the Amount to Withdraw : </label><br>
+        <input type="number" id="withdrawAmountInput" class="withdrawAmount" placeholder="Enter the Amount : "><br>
+        <button id="withdrawConfirmButton">Confirm</button>
+        <button id="withdrawCancelButton">Canel</button>
+      </div>
+      <div id="depositContainer" >
+        <label for="depositAmountInput">Enter the money you want Deposit : </label><br>
+        <input type="number" id="depositAmountInput" placeholder="Enter the Amount : "><br>
+        <button id="depositConfirmButton">Confirm</button>
+        <button id="depositCancelButton">Cancel</button>
+      </div>
+  </div>  
+  <footer class="footerLayer container-fluid">
+    @copyright - 2024 BIJJAM RAMA SAI MAHESWARA REDDY
+  </footer>
+</div>
+  
+</body>
+</html>
