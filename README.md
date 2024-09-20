@@ -27,14 +27,9 @@ accountNo: '39363', name:'stokes', email:'strokescsk@gmail.com',balance:14450.00
 
 # Screenshots :
 
-![Screenshot 2024-06-15 183301]
-![Screenshot 2024-06-15 183331]
-![Screenshot 2024-06-15 183346]
-![Screenshot 2024-06-15 183424]
-![Screenshot 2024-06-15 183452]
-![Screenshot 2024-06-15 183513]
-![Screenshot 2024-06-15 183524]
-![Screenshot 2024-06-15 183407]
+![Screenshot 2024-06-15 183301](https://github.com/user-attachments/assets/db41d3c1-a16c-40be-8bf4-72b248465307)
+![Screenshot 2024-06-15 183407](https://github.com/user-attachments/assets/962342a6-501b-47fc-a576-498ed864d9b6)
+
 
 
 
